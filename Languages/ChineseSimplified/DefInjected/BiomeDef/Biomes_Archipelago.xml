@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BorealArchipelago.label>苔原群岛</BorealArchipelago.label>
+  <BorealArchipelago.description>苔原的岛链，寒冷但是有植被覆盖.</BorealArchipelago.description>
+  <DesertArchipelago.label>沙漠群岛</DesertArchipelago.label>
+  <DesertArchipelago.description>荒芜的群岛，资源贫瘠.</DesertArchipelago.description>
+  <TemperateArchipelago.label>温带群岛</TemperateArchipelago.label>
+  <TemperateArchipelago.description>气候宜人，植被茂密的群岛.</TemperateArchipelago.description>
+  <TropicalArchipelago.label>热带群岛</TropicalArchipelago.label>
+  <TropicalArchipelago.description>热带群岛，棕榈树椰子树.</TropicalArchipelago.description>
+  <TundraArchipelago.label>冻土群岛</TundraArchipelago.label>
+  <TundraArchipelago.description>无人居住的寒冷群岛.</TundraArchipelago.description>
+  <BorealArchipelago_Fresh.label>苔原群岛</BorealArchipelago_Fresh.label>
+  <BorealArchipelago_Fresh.description>苔原的岛链，寒冷但是有植被覆盖.</BorealArchipelago_Fresh.description>
+  <DesertArchipelago_Fresh.label>沙漠群岛</DesertArchipelago_Fresh.label>
+  <DesertArchipelago_Fresh.description>荒芜的群岛，资源贫瘠.</DesertArchipelago_Fresh.description>
+  <TemperateArchipelago_Fresh.label>温带群岛</TemperateArchipelago_Fresh.label>
+  <TemperateArchipelago_Fresh.description>气候宜人，植被茂密的群岛.</TemperateArchipelago_Fresh.description>
+  <TropicalArchipelago_Fresh.label>热带群岛</TropicalArchipelago_Fresh.label>
+  <TropicalArchipelago_Fresh.description>热带群岛，棕榈树椰子树.</TropicalArchipelago_Fresh.description>
+  <TundraArchipelago_Fresh.label>冻土群岛</TundraArchipelago_Fresh.label>
+  <TundraArchipelago_Fresh.description>无人居住的寒冷群岛.</TundraArchipelago_Fresh.description>
+</LanguageData>

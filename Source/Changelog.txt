@@ -1,0 +1,84 @@
+---------------------------------------------------------------------------------
+  Changelog for "Rainbeau's Archipelagos"
+---------------------------------------------------------------------------------
+
+- 12/05/2018
+	- Fixed an error created by the fact that "Infectious Creatures" redefines
+	  cobras in a way that made the mod think they were mod-added rather than
+	  vanilla creatures.
+	- Rewrote XML patches to improve load efficiency slightly.
+
+- 10/14/2018
+	- Updated to RimWorld 1.0 release!
+
+- 09/29/2018
+	- Added that ability to configure the "water level" on generated maps.
+	- Increased slightly the amount of shallow water around islands, to make the
+	  transition from land to deep water a bit less extreme.
+	
+- 09/23/2018
+	- Eliminated no longer necessary (and potentially problematic) conditionals 
+	  based on the presence of "Fertile Fields" in mod list.
+	- Updated the version of the Harmony library the mod uses.
+
+- 09/16/2018
+	- Updated to RimWorld b19 release.
+	- Removed "Mod Sync Ninja" files.
+
+- 12/05/2017
+	- Freshwater and ocean variants of each archipelago type now have different
+	  labels. (This is really no big deal unless you're using "Prepare Landing,"
+	  and need to be able to tell the versions apart in the biome listing.)
+
+- 12/04/2017
+	- The mod now works with the "Mod Sync Ninja" updater.
+	  
+- 12/03/2017
+	- Ambrosia can now sprout on islands as well as on the mainland. Also, alpha
+	  beavers have discovered the joys of island life.
+	  
+- 12/02/2017
+	- Wild plants added by mods will also now appear on appropriate archipelago
+	  maps.
+
+- 11/18/2017
+	- Animals added by mods will now be eligible to appear in archipelago biomes
+	  corresponding to the vanilla biomes to which they're assigned.
+
+- 11/13/2017
+	- Added Chinese language translation files provided by kghostSATORI.
+
+- 11/07/2017
+	- Updated to RimWorld b18 release.
+	- Added swampy archipelagos to match new vanilla swampy biomes.
+	- Updated the "FishIndustry" patches.
+
+- 09/24/2017
+	- Squashed a bug related to rocky soil from my "Fertile Fields" mod, that was
+	  spawning error messages if maps were generated with neither "Configurable
+	  Maps" nor "Fertile Fields" in the mod list.
+
+- 09/23/2017
+	- Maps won't have quite so many archipelagos as they previously did.
+	- The incidence of (especially boreal) archipelagos showing up near coasts of
+	  a different climate type has been substantially reduced.
+	- Tundra archipelagos will no longer appear in the middle of otherwise solid
+	  regions of sea ice.
+	- Archipelagos in lakes will now feature islands surrounded by fresh water
+	  instead of ocean water. (On a related note, inland bodies of water must now
+	  be significantly larger than in vanilla to be considered oceans instead of
+	  lakes.)
+	- Since nobody at all seemed to like the orangish archipelago tiles, they've
+	  been replaced with tiles that are just slightly darker and more bluish than
+	  those of the corresponding vanilla biome tiles.
+
+- 09/19/2017
+	- Though most archipelagos remain flat maps, some are now small hills maps, 
+	  and a few are actually large hills maps.
+	- Replaced the "polka dot" world map archipelago tiles with solid tiles, with
+	  orangish tints. (Why orange? Because nothing on the world map was already 
+	  orange. The archipelagos will be easy to spot.)
+	- Added patches to allow "FishIndustry" fish to be caught in archipelagos.
+
+- 09/17/2017
+	- Initial release.

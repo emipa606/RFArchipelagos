@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationAdd">
+        <xpath>Defs/PawnKindDef[defName = "PawnKindDefFishSduiggles"]/naturalBiomes</xpath>
+        <value>
+          <li>DesertArchipelago</li>
+          <li>DesertArchipelago_Fresh</li>
+          <li>TemperateArchipelago</li>
+          <li>TemperateArchipelago_Fresh</li>
+          <li>TropicalArchipelago</li>
+          <li>TropicalArchipelago_Fresh</li>
+          <li>TemperateSwampArchipelago</li>
+          <li>TemperateSwampArchipelago_Fresh</li>
+          <li>TropicalSwampArchipelago</li>
+          <li>TropicalSwampArchipelago_Fresh</li>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationAdd">
+        <xpath>Defs/PawnKindDef[defName = "PawnKindDefFishSeasnake"]/naturalBiomes</xpath>
+        <value>
+          <li>BorealArchipelago</li>
+          <li>BorealArchipelago_Fresh</li>
+          <li>TemperateArchipelago</li>
+          <li>TemperateArchipelago_Fresh</li>
+          <li>TropicalArchipelago</li>
+          <li>TropicalArchipelago_Fresh</li>
+          <li>TundraArchipelago</li>
+          <li>TundraArchipelago_Fresh</li>
+          <li>ColdBogArchipelago</li>
+          <li>ColdBogArchipelago_Fresh</li>
+          <li>TemperateSwampArchipelago</li>
+          <li>TemperateSwampArchipelago_Fresh</li>
+          <li>TropicalSwampArchipelago</li>
+          <li>TropicalSwampArchipelago_Fresh</li>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationAdd">
+        <xpath>Defs/PawnKindDef[defName = "PawnKindDefFishMashgon"]/naturalBiomes</xpath>
+        <value>
+          <li>BorealArchipelago</li>
+          <li>BorealArchipelago_Fresh</li>
+          <li>DesertArchipelago</li>
+          <li>DesertArchipelago_Fresh</li>
+          <li>TemperateArchipelago</li>
+          <li>TemperateArchipelago_Fresh</li>
+          <li>TropicalArchipelago</li>
+          <li>TropicalArchipelago_Fresh</li>
+          <li>ColdBogArchipelago</li>
+          <li>ColdBogArchipelago_Fresh</li>
+          <li>TemperateSwampArchipelago</li>
+          <li>TemperateSwampArchipelago_Fresh</li>
+          <li>TropicalSwampArchipelago</li>
+          <li>TropicalSwampArchipelago_Fresh</li>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationAdd">
+        <xpath>Defs/PawnKindDef[defName = "PawnKindDefFishBlueblade"]/naturalBiomes</xpath>
+        <value>
+          <li>BorealArchipelago</li>
+          <li>BorealArchipelago_Fresh</li>
+          <li>DesertArchipelago</li>
+          <li>DesertArchipelago_Fresh</li>
+          <li>TemperateArchipelago</li>
+          <li>TemperateArchipelago_Fresh</li>
+          <li>TropicalArchipelago</li>
+          <li>TropicalArchipelago_Fresh</li>
+          <li>TundraArchipelago</li>
+          <li>TundraArchipelago_Fresh</li>
+          <li>ColdBogArchipelago</li>
+          <li>ColdBogArchipelago_Fresh</li>
+          <li>TemperateSwampArchipelago</li>
+          <li>TemperateSwampArchipelago_Fresh</li>
+          <li>TropicalSwampArchipelago</li>
+          <li>TropicalSwampArchipelago_Fresh</li>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationAdd">
+        <xpath>Defs/PawnKindDef[defName = "PawnKindDefFishTailteeth"]/naturalBiomes</xpath>
+        <value>
+          <li>DesertArchipelago</li>
+          <li>DesertArchipelago_Fresh</li>
+          <li>TemperateArchipelago</li>
+          <li>TemperateArchipelago_Fresh</li>
+          <li>TropicalArchipelago</li>
+          <li>TropicalArchipelago_Fresh</li>
+          <li>TemperateSwampArchipelago</li>
+          <li>TemperateSwampArchipelago_Fresh</li>
+          <li>TropicalSwampArchipelago</li>
+          <li>TropicalSwampArchipelago_Fresh</li>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+</Patch>

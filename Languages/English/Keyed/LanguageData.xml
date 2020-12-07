@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RFA.Archipelagos>Rainbeau's Archipelagos</RFA.Archipelagos>
+  <RFA.waterLevel>Water Level on New Maps:</RFA.waterLevel>
+  <RFA.WaterVeryLow>Very low water level. Islands will be large, and likely well connected by stretches of shallow water.</RFA.WaterVeryLow>
+  <RFA.WaterLow>Low water level.</RFA.WaterLow>
+  <RFA.WaterNormal>Normal water level.</RFA.WaterNormal>
+  <RFA.WaterHigh>High water level.</RFA.WaterHigh>
+  <RFA.WaterVeryHigh>Very high water level. Islands will be small, and likely isolated by stretches of deep water.</RFA.WaterVeryHigh>
+</LanguageData>
