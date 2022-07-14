@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>[RF] Archipelagos (Continued)</name>
   <packageId>Mlie.RFArchipelagos</packageId>
@@ -21,58 +21,62 @@
   <loadAfter>
     <li>brrainz.harmony</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Rainbeau Flambes mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1539309846
 
 - Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1914064942]Vanilla Fishing Expanded[/url]
 - Fixed error due to biomes with no defnames, thanks BrokenBed 
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
         [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/RFArchipelagos][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/6KqTKks.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 [b]Have you ever wanted to play RimWorld on an island map? Of course you have! And now you can!
 
-&quot;Archipelagos&quot; adds exactly what its name implies. You&apos;ll now find island chains dotting the coastlines of your world maps. More specifically, the mod adds a variety of new biomes to the game, each of them an island-based variant of the corresponding vanilla biome.
+"Archipelagos" adds exactly what its name implies. You'll now find island chains dotting the coastlines of your world maps. More specifically, the mod adds a variety of new biomes to the game, each of them an island-based variant of the corresponding vanilla biome.
 
-If you play on an archipelago map that happens to be adjacent to the mainland, you&apos;ll be able to send caravans to settlements on the mainland without difficulty. If you play on an archipelago map that doesn&apos;t connect directly to the mainland, you&apos;ll find trading a bit more difficult, but no more so than if you were playing on a vanilla &quot;island&quot; tile.
+If you play on an archipelago map that happens to be adjacent to the mainland, you'll be able to send caravans to settlements on the mainland without difficulty. If you play on an archipelago map that doesn't connect directly to the mainland, you'll find trading a bit more difficult, but no more so than if you were playing on a vanilla "island" tile.
 
 - Rainbeau Flambe (dburgdorf)[/b]
 
 [h1][b][u]Compatibility:[/u][/b][/h1]
 
-Adding &quot;Archipelagos&quot; to a saved game shouldn&apos;t cause any trouble, but removing it from a game in progress could potentially create problems, even if you&apos;re not actually playing on an island map.
+Adding "Archipelagos" to a saved game shouldn't cause any trouble, but removing it from a game in progress could potentially create problems, even if you're not actually playing on an island map.
 
-&quot;Archipelagos&quot; is not, at this time, compatible with Lanilor&apos;s &quot;Terra Core&quot; mod. That mod makes extensive changes to map and terrain generation which would be very difficult for this mod to work around.
+"Archipelagos" is not, at this time, compatible with Lanilor's "Terra Core" mod. That mod makes extensive changes to map and terrain generation which would be very difficult for this mod to work around.
 
-&quot;Archipelagos&quot; should be compatible with most any other mods.
+"Archipelagos" should be compatible with most any other mods.
 
 If you use any mods that add animals or wild plants, those animals or plants will have the same chance of appearing on archipelago maps that they have of appearing on corresponding vanilla biome maps. (For example, if you use a mod that adds penguins to tundra maps, you may also see penguins on tundra archipelago maps.)
 
-If you&apos;re going to build a base on an island chain, you should probably make sure you can build bridges and catch fish. I, of course, would recommend my own &quot;Advanced Bridges&quot; and &quot;Fishing&quot; mods to fill those needs, but there are obviously other options available, as well, any of which should work just fine with this mod.
+If you're going to build a base on an island chain, you should probably make sure you can build bridges and catch fish. I, of course, would recommend my own "Advanced Bridges" and "Fishing" mods to fill those needs, but there are obviously other options available, as well, any of which should work just fine with this mod.
 
 [h1][b][u]Credits:[/u][/b][/h1]
 
-The mod utilizes Pardeike&apos;s &quot;Harmony Patch Library.&quot; (No additional download is required, as the library is included with the mod.)
+The mod utilizes Pardeike's "Harmony Patch Library." (No additional download is required, as the library is included with the mod.)
 
 The simplified Chinese language translation files were provided by Steam user kghostSATORI.
 
 [h1][b][u]License:[/u][/b][/h1]
 
-If you&apos;re a modpack maker and want to include &quot;Archipelagos&quot; in your pack, or if you&apos;re a modder and want to use it as the basis of a derivative mod, please feel free to do so. I ask only that you let me know about it. 
+If you're a modpack maker and want to include "Archipelagos" in your pack, or if you're a modder and want to use it as the basis of a derivative mod, please feel free to do so. I ask only that you let me know about it. 
 
-[h1][i]The Ludeon forums discussion thread for my mods can be found [url=https://ludeon.com/forums/index.php?topic=46165]here[/url].
+The Ludeon forums discussion thread for my mods can be found [url=https://ludeon.com/forums/index.php?topic=46165]here[/url].
 
 If you have any (helpful) suggestions for improvement, please let me know!
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -81,6 +85,5 @@ If you have any (helpful) suggestions for improvement, please let me know!
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [/list]
-
 </description>
 </ModMetaData>
