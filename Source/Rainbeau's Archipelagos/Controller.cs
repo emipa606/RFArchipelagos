@@ -1,29 +1,32 @@
 ﻿using System.Reflection;
 using HarmonyLib;
+using Mlie;
 using UnityEngine;
 using Verse;
 
-namespace RA_Code
+namespace RA_Code;
+
+public class Controller : Mod
 {
-    public class Controller : Mod
+    public static Settings Settings;
+    public static string currentVersion;
+
+    public Controller(ModContentPack content) : base(content)
     {
-        public static Settings Settings;
+        var harmony = new Harmony("net.rainbeau.rimworld.mod.archipelagos");
+        harmony.PatchAll(Assembly.GetExecutingAssembly());
+        Settings = GetSettings<Settings>();
+        currentVersion =
+            VersionFromManifest.GetVersionFromModMetaData(ModLister.GetActiveModWithIdentifier("Mlie.RFArchipelagos"));
+    }
 
-        public Controller(ModContentPack content) : base(content)
-        {
-            var harmony = new Harmony("net.rainbeau.rimworld.mod.archipelagos");
-            harmony.PatchAll(Assembly.GetExecutingAssembly());
-            Settings = GetSettings<Settings>();
-        }
+    public override string SettingsCategory()
+    {
+        return "RFA.Archipelagos".Translate();
+    }
 
-        public override string SettingsCategory()
-        {
-            return "RFA.Archipelagos".Translate();
-        }
-
-        public override void DoSettingsWindowContents(Rect canvas)
-        {
-            Settings.DoWindowContents(canvas);
-        }
+    public override void DoSettingsWindowContents(Rect canvas)
+    {
+        Settings.DoWindowContents(canvas);
     }
 }

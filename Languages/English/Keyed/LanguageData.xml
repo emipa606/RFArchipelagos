@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <RFA.CurrentModVersion>Installed mod-version: {0}</RFA.CurrentModVersion>
   <RFA.Archipelagos>Rainbeau's Archipelagos</RFA.Archipelagos>
   <RFA.waterLevel>Water Level on New Maps:</RFA.waterLevel>
   <RFA.WaterVeryLow>Very low water level. Islands will be large, and likely well connected by stretches of shallow water.</RFA.WaterVeryLow>
