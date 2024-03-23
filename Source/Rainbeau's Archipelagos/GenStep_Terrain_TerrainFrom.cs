@@ -78,7 +78,7 @@ public static class GenStep_Terrain_TerrainFrom
             }
         }
 
-        if (elevation > 0.65f && elevation <= 0.69f)
+        if (elevation is > 0.65f and <= 0.69f)
         {
             __result = TerrainDefOf.Gravel;
             return false;
