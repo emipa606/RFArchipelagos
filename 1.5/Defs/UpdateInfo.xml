@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TabulaRasa.UpdateDef Abstract="true" Name="RFArchipelagos_UpdateInfoBase">
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2312280343</linkUrl>
+		<banner>UpdateInfo/RFArchipelagos</banner>
+	</TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef ParentName="RFArchipelagos_UpdateInfoBase" MayRequire="neronix17.toolbox">
+		<defName>RFArchipelagos_1_5_0</defName>
+		<date>2026/1/16</date>
+		<content>This mod will not be further updated.</content>
+	</TabulaRasa.UpdateDef>
+</Defs>
+
